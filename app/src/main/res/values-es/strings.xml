@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NightShift</string>
+    <string name="btn_sceduled">Programado</string>
+    <string name="explain_night_shift">El modo Night Shift cambia automaticamente los colores de la pantalla a tonos mas calidos cuando se hace de noche para ayudarte a dormir mejor.</string>
+    <string name="explain_warmer">Los ajustes do mas calidez pueden determinar la apariencia de algun movimeiento en pantalla.</string>
+    <string name="title_color_temperature">TEMPERATURA DEL COLOR</string>
+    <string name="title_end_time">Hasta</string>
+    <string name="title_start_time">Desde</string>
+    <string name="title_less_warm">Menos calida</string>
+    <string name="title_more_warm">Mas calida</string>
+    <string name="title_on_off">Night Shift</string>
+    <string name="title_notification">Night Shift Ahora trabajando</string>
+    <string name="message_notification">Si desea detener el turno de noche , por favor me toque .</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9235263826870054/5900688522</string>
+    <string name="banner_ad_unit_id_front">ca-app-pub-9235263826870054/4423955323</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NightShift</string>
+    <string name="title_on_off">Night Shift</string>
+    <string name="explain_night_shift">Night Shift automatically shifts the colors of your display to the warmer end of the color spectrum after dark. This may help you get a better night\'s sleep</string>
+    <string name="explain_warmer">Warmer settings may affect the appearance of some onscreen motion.</string>
+    <string name="btn_sceduled">Scheduled</string>
+    <string name="title_color_temperature">COLOR TEMPERATURE</string>
+    <string name="title_less_warm">Less Warm</string>
+    <string name="title_more_warm">More Warm</string>
+    <string name="title_start_time">Start Time</string>
+    <string name="title_end_time">End Time</string>
+    <string name="title_notification">Night Shift Now Working</string>
+    <string name="message_notification">If you want to stop Night Shift , please touch me .</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9235263826870054/5900688522</string>
+    <string name="banner_ad_unit_id_front">ca-app-pub-9235263826870054/4423955323</string>
+</resources>

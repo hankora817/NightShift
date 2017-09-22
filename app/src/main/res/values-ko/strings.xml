@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">나이트쉬프트</string>
+    <string name="btn_sceduled">시간 예약</string>
+    <string name="explain_night_shift">나이트쉬프트는 어두워진 후에 화면의 색상을 자동으로 색상 스펙트럼의 가장 따뜻한 색으로 변경합니다. 이것은 수면에 도움이 될 수 있습니다.</string>
+    <string name="explain_warmer">따뜻한 색으로 설정하면 화면 상에 나타나는 일부 동작이 다르게 보일 수 있습니다.</string>
+    <string name="title_color_temperature">색 온도</string>
+    <string name="title_end_time">종료 시간</string>
+    <string name="title_less_warm">덜 따뜻한 색</string>
+    <string name="title_more_warm">더 따뜻한 색</string>
+    <string name="title_on_off">나이트 쉬프트</string>
+    <string name="title_start_time">시작 시간</string>
+    <string name="title_notification">Night Shift 작동 중</string>
+    <string name="message_notification">Night Shift 작동을 중지하려면 터치하세요.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9235263826870054/5900688522</string>
+    <string name="banner_ad_unit_id_front">ca-app-pub-9235263826870054/4423955323</string>
+</resources>
